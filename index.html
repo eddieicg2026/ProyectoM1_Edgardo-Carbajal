@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Generador de Paletas HSL y HEX</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Generador de Paletas de Colores</h1>
+  </header>
+
+  <main>
+    <form id="paletteForm">
+      <label for="size">Tamaño de la paleta:</label>
+      <select id="size" name="size" aria-label="Seleccionar tamaño de la paleta">
+        <option value="6">6 colores</option>
+        <option value="8">8 colores</option>
+        <option value="9">9 colores</option>
+      </select>
+
+      <label for="format">Formato de color:</label>
+      <select id="format" name="format" aria-label="Seleccionar formato de color">
+        <option value="hsl">HSL</option>
+        <option value="hex">HEX</option>
+      </select>
+
+      <button type="submit" id="generate">Generar paleta</button>
+    </form>
+
+    <section class="palette" id="palette" aria-live="polite" aria-label="Paleta de colores generada"></section>
+  </main>
+
+  <footer>
+    &copy; 2026 Eddie - Generador de Paletas
+  </footer>
+
+  <div id="toast" role="alert" aria-live="assertive" aria-atomic="true"></div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>

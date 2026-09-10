@@ -1,0 +1,118 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #74ebd5 0%, #ACB6E5 100%);
+  color: #333;
+  text-align: center;
+  padding: 20px;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+header h1 {
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #222;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 1.1rem;
+  align-self: center;
+}
+
+select, button {
+  font-size: 1.1rem;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #888;
+  outline-offset: 2px;
+  transition: border-color 0.3s;
+}
+
+select:focus, button:focus {
+  border-color: #4a90e2;
+  box-shadow: 0 0 5px #4a90e2;
+  outline: none;
+}
+
+button {
+  background-color: #4a90e2;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  box-shadow: 0 4px 8px rgba(74,144,226,0.4);
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+button:hover {
+  background-color: #357ABD;
+  box-shadow: 0 6px 12px rgba(53,122,189,0.6);
+}
+
+.palette {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.color-box {
+  width: 110px;
+  height: 110px;
+  border-radius: 12px;
+  border: 2px solid #fff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  color: white;
+  font-weight: 700;
+  line-height: 110px;
+  user-select: none;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  text-shadow: 0 0 5px rgba(0,0,0,0.7);
+  position: relative;
+}
+
+.color-box:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Toast */
+#toast {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #4a90e2;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(74,144,226,0.6);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  font-weight: 600;
+  z-index: 1000;
+}
+#toast.show {
+  opacity: 1;
+  pointer-events: auto;
+}
