@@ -33,7 +33,7 @@ https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal
 ## Uso
 
 1. Abrir el archivo `index.html` en un navegador moderno.
-2. Seleccionar el tamaño deseado de la paleta en el menú desplegable.
+2. Seleccionar el tamaño deseado de la paleta y formato de colores en los menús desplegables.
 3. Hacer clic en el botón "Generar paleta".
 4. Hacer clic en cualquier color para copiar su código al portapapeles.
 
