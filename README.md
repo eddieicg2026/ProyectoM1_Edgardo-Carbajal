@@ -11,7 +11,7 @@ https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal
 ## Funcionalidades
 
 - Selección del tamaño de la paleta: 6, 8 o 9 colores.
-- Generación de colores aleatorios en formatos HSL y HEX.
+- Selección de formatos HSL o HEX.
 - Visualización de cada color junto a su código.
 - Bloqueo de colores para evitar repeticiones en la misma paleta.
 - Guardado automático de la paleta generada en `localStorage`.
