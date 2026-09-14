@@ -4,7 +4,7 @@ Este proyecto es una aplicación web estática e interactiva que permite generar
 
 link a la propuesta:
 
-https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal___solohsl/
+https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal
 
 ---
 
@@ -56,7 +56,7 @@ https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal___solohsl/
 
 enlace a la propuesta:
 
-https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal___solohsl/
+https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal
 
 ---
 
