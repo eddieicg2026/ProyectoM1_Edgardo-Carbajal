@@ -54,9 +54,13 @@ https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal
 - Mejor microfeedback con toasts personalizados.
 - Modo oscuro y temas personalizados.
 
-enlace a la propuesta:
+---
 
-https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal
+## Uso de la IA documentada
+
+---
+
+## Flujo del uso de la Aplicación
 
 ---
 
