@@ -58,6 +58,8 @@ https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal
 
 ## Uso de la IA documentada
 
+https://github.com/eddieicg2026/ProyectoM1_Edgardo-Carbajal/blob/main/prompt-1---LISA.png
+
 ---
 
 ## Flujo del uso de la Aplicación
