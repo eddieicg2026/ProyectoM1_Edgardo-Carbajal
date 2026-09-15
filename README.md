@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación web estática e interactiva que permite generar paletas de colores aleatorias con un solo botón. Ideal para diseñadores, desarrolladores o cualquier persona que quiera inspirarse con combinaciones de colores.
 
-link a la propuesta:
+enlace a la propuesta:
 
 https://eddieicg2026.github.io/ProyectoM1_Edgardo-Carbajal
 
