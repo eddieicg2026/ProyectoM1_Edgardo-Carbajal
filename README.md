@@ -66,6 +66,8 @@ https://github.com/eddieicg2026/ProyectoM1_Edgardo-Carbajal/blob/main/prompt-1--
 
 https://github.com/eddieicg2026/ProyectoM1_Edgardo-Carbajal/blob/main/flujo%20-%201.png
 
+https://github.com/eddieicg2026/ProyectoM1_Edgardo-Carbajal/blob/main/flujo%20-%202.png
+
 ---
 
 ## Autor
