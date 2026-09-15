@@ -64,6 +64,8 @@ https://github.com/eddieicg2026/ProyectoM1_Edgardo-Carbajal/blob/main/prompt-1--
 
 ## Flujo del uso de la Aplicación
 
+https://github.com/eddieicg2026/ProyectoM1_Edgardo-Carbajal/blob/main/flujo%20-%201.png
+
 ---
 
 ## Autor
